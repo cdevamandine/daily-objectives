@@ -15,7 +15,7 @@
   * [x] Comprendre l'utilité des algorithmes
   * [x] Déterminer l'importance de l’étude des algorithmes
 
-* [ ] HTML :
+* [x] HTML :
   * [x] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [x] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
   * [x] Découvrir les formulaires et leur validation en HTML5
