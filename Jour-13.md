@@ -14,7 +14,7 @@
 * [x] Algo : 
   * [x] Découvrir le tri fusion (Merge Sort)
 
-* [ ] CSS : 
+* [x] CSS : 
   * [ ] Comprendre le fonctionnement de Flexbox
     * [ ] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
   * [ ] Comprendre le fonctionnement de CSS Grid
