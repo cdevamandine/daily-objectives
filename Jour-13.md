@@ -4,12 +4,12 @@
 
 
 * [x] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
-    * [ ] Comprendre la différence entre unaire, binaire et opérande
-    * [ ] Comprendre la concaténation
-    * [ ] Comprendre la précédence des opérateurs
-    * [ ] Comprendre le modulo
-    * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
+  * [x] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
+    * [x] Comprendre la différence entre unaire, binaire et opérande
+    * [x] Comprendre la concaténation
+    * [x] Comprendre la précédence des opérateurs
+    * [x] Comprendre le modulo
+    * [x] Comprendre l'incrémentation, la différence entre préfix et postfix
 
 * [x] Algo : 
   * [x] Découvrir le tri fusion (Merge Sort)
