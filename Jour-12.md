@@ -11,7 +11,7 @@
 
 * [x] CSS : 
     * [x] Comprendre la précédence en CSS
-    * [ ] Découvrir les sélécteurs avancés et les combinateurs en CSS
+    * [x] Découvrir les sélécteurs avancés et les combinateurs en CSS
     * [x] Découvrir le responsive design :
         * [x] Comprendre l'utilité du responsive design
         * [x] Comprendre le fonctionnement des medias queries
