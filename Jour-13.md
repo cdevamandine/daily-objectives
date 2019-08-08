@@ -15,7 +15,7 @@
   * [x] Découvrir le tri fusion (Merge Sort)
 
 * [x] CSS : 
-  * [x] Comprendre le fonctionnement de Flexbox
+  * [ ] Comprendre le fonctionnement de Flexbox
     * [ ] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
-  * [ ] Comprendre le fonctionnement de CSS Grid
-    * [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
+  * [x] Comprendre le fonctionnement de CSS Grid
+    * [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
