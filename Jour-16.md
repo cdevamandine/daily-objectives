@@ -7,8 +7,8 @@
   * [ ] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
     * [ ] Faire les 5 exercices
 
-* [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Insertion Sort (création pure)
+* [x] Algo : 
+  * [x] Ecrire en pseudocode le Insertion Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [x] CSS : 
