@@ -3,11 +3,11 @@
 ## Mercredi 28/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
-    * [ ] Faire les 7 exercices
+* [x] Javascript :
+  * [x] Comprendre le fonctionnement des boucles `while` et `for` (cd)
+    * [x] Faire les 7 exercices
 
-* [ ] Algo : 
+* [x] Algo : 
   * [ ] Ecrire en pseudocode le Heap Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 

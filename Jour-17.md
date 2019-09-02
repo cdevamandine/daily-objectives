@@ -9,7 +9,7 @@
 
 * [x] Algo : 
   * [x] Ecrire en pseudocode le Bubble Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+  * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [x] CSS : 
   * [x] Découvrir l'architecture `7-1` :
