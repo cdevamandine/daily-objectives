@@ -7,8 +7,13 @@
   * [x] Comprendre le fonctionnement des boucles `while` et `for` (cd)
     * [x] Faire les 7 exercices
 
+<<<<<<< HEAD
 * [x] Algo : 
   * [ ] Ecrire en pseudocode le Heap Sort (création pure)
+=======
+* [ ] Algo : 
+  * [ ] Ecrire en pseudocode le Merge Sort (création pure)
+>>>>>>> 1639b39fa023c58ed42858cff07e92539a3626d2
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [ ] CSS : 
