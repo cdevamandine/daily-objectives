@@ -9,8 +9,8 @@
   * [x] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
   * Devenir un Ninja du code (https://javascript.info/ninja-code)
 
-* [x] Algo : 
-  * [x] Ecrire en pseudocode le Selection Sort (création pure)
-  * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+* [ ] Algo : 
+  * [ ] Ecrire en pseudocode le Selection Sort (création pure)
+  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 
