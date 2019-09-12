@@ -13,5 +13,5 @@
 * Codewars :
   * [x] Inscription sur Codewars (https://www.codewars.com)
   * [x] Function 1 - hello world (https://www.codewars.com/kata/function-1-hello-world/javascript)
-  * [ ] Even or Odd (https://www.codewars.com/kata/even-or-odd/javascript)
+  * [x] Even or Odd (https://www.codewars.com/kata/even-or-odd/javascript)
   * [x] Opposite number (https://www.codewars.com/kata/opposite-number/javascript)
