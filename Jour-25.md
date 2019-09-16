@@ -3,12 +3,12 @@
 ## Lundi 16/09/2019
 
 
-* [ ] Javascript :
-  * [ ] Découvrir le `DOM` :
+* [x] Javascript :
+  * [x] Découvrir le `DOM` :
 
-    * [ ] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
+    * [x] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
 
-    * [ ] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://javascript.info/dom-nodes)
+    * [x] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://javascript.info/dom-nodes)
 
     * [ ] Comprendre la navigation du DOM (https://javascript.info/dom-navigation) :
       * [ ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
