@@ -2,26 +2,26 @@
 
 ## Jeudi 19/09/2019
 
-* [ ] Javascript :
+* [x] Javascript :
 
-  * [ ] Savoir modifier un document (https://javascript.info/modifying-document)
+  * [x] Savoir modifier un document (https://javascript.info/modifying-document)
     * Savoir :
-      * [ ] Créer un `element`
-      * [ ] Utilier les différentes méthodes d'insertions
-      * [ ] Supprimer un `node`
-      * [ ] Cloner un `node`
+      * [x] Créer un `element`
+      * [x] Utilier les différentes méthodes d'insertions
+      * [x] Supprimer un `node`
+      * [x] Cloner un `node`
 
-  * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
-    * [ ] Comprendre la différence entre `className` et `classList`
-    * [ ] Savoir ajouter, supprimer et toggle une classe
-    * [ ] Savoir manipuler les styles dans les `elements`
+  * [x] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
+    * [x] Comprendre la différence entre `className` et `classList`
+    * [x] Savoir ajouter, supprimer et toggle une classe
+    * [x] Savoir manipuler les styles dans les `elements`
 
-  * [ ] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
+  * [x] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
     * Comprendre ce que sont les : 
-      * [ ] évènements liés à la souris
-      * [ ] évènements liés aux formulaires
-      * [ ] évènements liés au clavier
-      * [ ] évènements liés au document
-      * [ ] évènements liés au CSS
-    * [ ] Comprendre ce qu'est un `handler` et comment cela fonctionne
-    * [ ] Comprendre le fonctionnement et l'utilité de `addEventListener` et `removeEventListener`
+      * [x] évènements liés à la souris
+      * [x] évènements liés aux formulaires
+      * [x] évènements liés au clavier
+      * [x] évènements liés au document
+      * [x] évènements liés au CSS
+    * [x] Comprendre ce qu'est un `handler` et comment cela fonctionne
+    * [x] Comprendre le fonctionnement et l'utilité de `addEventListener` et `removeEventListener`
