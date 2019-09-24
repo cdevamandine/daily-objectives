@@ -2,7 +2,7 @@
 
 ## Lundi 23/09/2019
 
-* [ ] Javascript :
+* [x] Javascript :
 
   * [ ] Découvrir `Map` et `Set` (https://javascript.info/map-set)
     * [ ] Comprendre la principale différence entre les deux.
