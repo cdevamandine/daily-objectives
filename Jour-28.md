@@ -4,15 +4,15 @@
 
 * [x] Javascript :
 
-  * [ ] Découvrir `Map` et `Set` (https://javascript.info/map-set)
-    * [ ] Comprendre la principale différence entre les deux.
-    * [ ] Faire les exercices
+  * [x] Découvrir `Map` et `Set` (https://javascript.info/map-set)
+    * [x] Comprendre la principale différence entre les deux.
+    * [x] Faire les exercices
   
 
 
-* [ ] DOM : 
+* [x] DOM : 
 
-  * [ ] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
+  * [x] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
   * [ ] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
     * [ ] Faire les exercices

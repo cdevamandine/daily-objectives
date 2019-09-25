@@ -4,11 +4,11 @@
 
 ### Javascript :
 
-  * [ ] Comprendre comment fonctionnent `WeaKmap` et `WeakSet` (https://javascript.info/weakmap-weakset)
-    * [ ] Comprendre la principale différence entre : 
-      * [ ] `WeakMap` et `Map`
-      * [ ] `WeakSet` `Set`
-    * [ ] Faire les exercices
+  * [x] Comprendre comment fonctionnent `WeaKmap` et `WeakSet` (https://javascript.info/weakmap-weakset)
+    * [x] Comprendre la principale différence entre : 
+      * [x] `WeakMap` et `Map`
+      * [x] `WeakSet` `Set`
+    * [x] Faire les exercices
   
 
 
