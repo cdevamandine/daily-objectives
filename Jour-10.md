@@ -15,4 +15,4 @@
   * [X] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
   * [X] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
   * [x] Savoir appliquer des bordures, ombres et backgrounds
-  * [ ] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
+  * [x] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)

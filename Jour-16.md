@@ -5,7 +5,7 @@
 
 * [x] Javascript :
   * [x] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
-    * [ ] Faire les 5 exercices
+    * [x] Faire les 5 exercices
 
 * [x] Algo : 
   * [x] Ecrire en pseudocode le Insertion Sort (création pure)
