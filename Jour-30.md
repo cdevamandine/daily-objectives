@@ -4,8 +4,8 @@
 
 ### Javascript :
 
-  * [ ] Comprendre la destructuration en Javascript (https://javascript.info/destructuring-assignment)
-    * [ ] Faire les exercices
+  * [x] Comprendre la destructuration en Javascript (https://javascript.info/destructuring-assignment)
+    * [x] Faire les exercices
   
 
 
