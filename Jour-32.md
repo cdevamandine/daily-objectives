@@ -16,6 +16,6 @@
     * [x] Les interpolations
     * [x] Les directives
 
-  * [ ] Comprendre l'intérêt des `computed properties` et comprendre la
+  * [x] Comprendre l'intérêt des `computed properties` et comprendre la
       différence avec la `data` de base
       (https://vuejs.org/v2/guide/computed.html)
