@@ -16,4 +16,4 @@
 
   * [x] Comprendre le flux de données unidirectionnel (one way data binding)
   
-  * [ ] Faire et refaire (plusieurs fois) la todo liste découpée en 3 composant (https://github.com/HachemiH/todo-components)
+  * [x] Faire et refaire (plusieurs fois) la todo liste découpée en 3 composant (https://github.com/HachemiH/todo-components)
