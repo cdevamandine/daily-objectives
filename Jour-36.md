@@ -13,7 +13,12 @@
   * [x] Savoir consommer une `API` avec `Axios`
     (https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
 
+<<<<<<< HEAD
   * [x] Créer une application Vue JS en consommant l'`API` de citations de `Kaamelot` (https://kaamelott.chaudie.re/)
+=======
+  * [ ] Créer une application Vue JS en consommant l'`API` de citations de
+    `Kaamelot` (https://kaamelott.chaudie.re/)
+>>>>>>> 0b56bf7fd23bb2ecc161115423b865b6a4241fd3
     * Possibilité de consommer une `API` de votre choix
 
   * Savoir deployer une application Vue JS sur Github Pages
