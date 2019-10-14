@@ -15,4 +15,4 @@
   * [x] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
   * [x] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
-    * [ ] Faire les exercices
+    * [x] Faire les exercices
