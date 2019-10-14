@@ -5,7 +5,7 @@
 ### Javascript : 
 
 * [x] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
-  * [ ] Faire les exercices
+  * [x] Faire les exercices
 
 
 ### Backend : 
@@ -18,4 +18,4 @@
 
 ### Frappe au clavier :
 
-* [ ] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
+* [x] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
