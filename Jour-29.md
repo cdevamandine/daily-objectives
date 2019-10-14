@@ -24,7 +24,7 @@
     * [x] Savoir comment empêcher le comportement par défaut
 
   * [x] Approfondir les évènements basés sur la souris (https://javascript.info/mouse-events-basics)
-    * [ ] Faire les exercices
+    * [x] Faire les exercices
 
   * [x] Appronfondir les déplacements de la souris (https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave)
     * [x] Comprendre le fonctionnement des évènements basés sur : 
