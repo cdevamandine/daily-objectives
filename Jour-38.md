@@ -12,11 +12,11 @@
 ### Backend : 
 
 * [x] Comprendre le fonctionnement de `NPM` : 
-  * [ ] Comprendre ce qu'est paquet 
-  * [ ] Comprendre comment fonctionne le `package.json` / Mise à jour 
+  * [x] Comprendre ce qu'est paquet 
+  * [x] Comprendre comment fonctionne le `package.json` / Mise à jour 
   * [x] Savoir ce qu'est le `Semantic Versionning` (SemVer)
-  * [ ] Comprendre la différence entre une installation locale vs globale, entre développement vs production
-  * [ ] Découvrir les commandes utiles 
+  * [x] Comprendre la différence entre une installation locale vs globale, entre développement vs production
+  * [x] Découvrir les commandes utiles 
 
 * [ ] Faire les exercices `Timers` dans Node.js
 
