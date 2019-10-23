@@ -22,4 +22,4 @@
 
 ### Frappe au clavier :
 
-* [ ] Leçon 2 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/2)
+* [x] Leçon 2 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/2)
